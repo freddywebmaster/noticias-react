@@ -13,6 +13,6 @@ const ListaNoticias = ({noticias}) => {
      );
 }
 ListaNoticias.propTypes = {
-    setCategoria: PropTypes.array.isRequired
+    noticias: PropTypes.array.isRequired
 }
 export default ListaNoticias;

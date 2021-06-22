@@ -21,7 +21,7 @@ function App() {
 
   return (
     <>
-      <Header titulo="Buscador de noticias"/>
+      <Header titulo="Fnews"/>
       <div className="container white">
         <Formulario
           setCategoria={setCategoria}

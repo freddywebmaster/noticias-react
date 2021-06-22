@@ -34,6 +34,6 @@ const Noticias = ({noticia}) => {
      );
 }
 Noticias.propTypes = {
-    setCategoria: PropTypes.object.isRequired
+    noticia: PropTypes.object.isRequired
 }
 export default Noticias;
