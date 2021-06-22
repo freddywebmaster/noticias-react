@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Aplicacion de noticias con react js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta aplicacion solo funciona en localhost debido a que la api es gratuita por eso no esta en deployment
+
+# Si quieres probarla
+puedes clonar el repositorio, luego instalar los modulos de node con npm i o con yarn seria yarn i
+de este modo puedes probarla.
+
 
 ## Available Scripts
 
