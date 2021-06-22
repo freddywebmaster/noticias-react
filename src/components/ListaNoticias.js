@@ -5,6 +5,7 @@ const ListaNoticias = ({noticias}) => {
     return ( 
         <div className="row">
             {
+                (noticias===undefined) ? null:
                 noticias.map(noticia=>(
                     <Noticias key={noticia.url} noticia={noticia}/>
                 ))
